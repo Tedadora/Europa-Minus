@@ -80,6 +80,18 @@
       "name": "syndie-4"
     },
     {
+      "name": "inteq-1"
+    },
+    {
+      "name": "inteq-2"
+    },
+    {
+      "name": "inteq-3"
+    },
+    {
+      "name": "inteq-4"
+    },
+    {
       "name": "syndie-soaplet"
     },
     {
@@ -127,7 +139,11 @@
       "directions": 4
     },
     {
-      "name": "syndie-inhand-right",
+      "name": "inteq-inhand-right",
+      "directions": 4
+    },
+    {
+      "name": "inteq-inhand-right",
       "directions": 4
     }
   ]
