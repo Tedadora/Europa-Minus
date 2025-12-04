@@ -315,3 +315,33 @@
   - type: Tag
     tags:
     - Soap
+
+- type: entity
+  name: soap
+  id: SoapInteQ
+  parent: [Soap, BaseMinorContraband]
+  description: InteQ All-Purpose Cleaner. Its chemical composition is so caustic that it can cause burns.
+  components:
+  - type: Sprite
+    layers:
+    - state: inteq-4
+      map: ["enum.SolutionContainerLayers.Fill"]
+  - type: SolutionContainerVisuals
+    fillBaseName: inteq-
+  - type: Slippery
+    slipData:
+      paralyzeTime: 4
+      launchForwardsMultiplier: 4
+  - type: Item
+    heldPrefix: inteq
+  - type: FlavorProfile
+    flavors:
+      - clean
+      - punishment
+  - type: CleansForensics
+    cleanDelay: 7.0
+  - type: Residue
+    residueAdjective: residue-slippery
+    residueColor: residue-red
+  - type: StaticPrice
+    price: 500
