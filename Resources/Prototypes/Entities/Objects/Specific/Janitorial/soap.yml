@@ -330,8 +330,8 @@
     fillBaseName: inteq-
   - type: Slippery
     slipData:
-      paralyzeTime: 3,5
-      launchForwardsMultiplier: 3,5
+      paralyzeTime: 3,05
+      launchForwardsMultiplier: 3,05
   - type: Item
     heldPrefix: inteq
   - type: FlavorProfile
