@@ -14,3 +14,5 @@ ent-SoapOmega = omega soap
     .desc = The most advanced soap known to mankind. Smells of bluespace.
 ent-SoapBorg = soap
     .desc = A Nanotrasen brand bar of soap. Smells of plasma and machines.
+ent-SoapInteQ = soap
+    .desc = InteQ All-Purpose Cleaner. Its chemical composition is so caustic that it can cause burns.
