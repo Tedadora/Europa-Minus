@@ -35,15 +35,17 @@
     - !type:GroupSelector
       children:
       - id: ClothingBeltInteQWebbing
-        prob: 0.005
+        prob: 0.05
       - id: ClothingBeltInteQDropPouch
-        prob: 0.005
+        prob: 0.05
     - id: ItemFlagMiniInteQ
     - id: FoodSnackInteQCookies
     - id: CigPackInteQ
     - id: ClothingNeckCloakInteQ
-      prob: 0.005
+      prob: 0.05
     - id: BoxInteQEVA
-      prob: 0.005
+      prob: 0.05
     - id: ToolboxInteQFilled
-      prob: 0.04
+      prob: 0.1
+    - id: ToolboxInteQFilled
+      prob: 0.2
