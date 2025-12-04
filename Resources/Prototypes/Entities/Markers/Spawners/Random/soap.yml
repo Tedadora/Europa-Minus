@@ -2,6 +2,7 @@
 # SPDX-FileCopyrightText: 2022 Pieter-Jan Briers <pieterjan.briers+git@gmail.com>
 # SPDX-FileCopyrightText: 2023 Psychpsyo <60073468+Psychpsyo@users.noreply.github.com>
 # SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Tedadora <245567560+Tedadora@users.noreply.github.com>
 #
 # SPDX-License-Identifier: MIT
 
@@ -21,8 +22,9 @@
       - SoapHomemade
       - SoapNT
       - SoapDeluxe
-    chance: 0.95
+    chance: 0.8
     rarePrototypes:
       - SoapSyndie
       - SoapOmega
-    rareChance: 0.05
+      - SoapInteQ
+    rareChance: 0.2
