@@ -139,7 +139,11 @@
       "directions": 4
     },
     {
-      "name": "inteq-inhand-right",
+      "name": "syndie-inhand-right",
+      "directions": 4
+    },
+    {
+      "name": "inteq-inhand-left",
       "directions": 4
     },
     {
